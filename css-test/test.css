@@ -1,19 +1,17 @@
-Selector{
+/* Selector {
     property: value;
     propertytwo: value;
-}
-.css
-{
+} */
+
+.css {
     background-position: right center;
     background-image: url("https://media.istockphoto.com/id/1288009387/photo/software-development-system-engineer-programming-digital-transformation.jpg?s=612x612&w=0&k=20&c=q04VzHacoKuwksIBJf2gFZCd9lVlARrX6iY6gFTKm-U=");
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   
-   
-   background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
     color: rgb(8, 165, 21);
 }
-x
-{
+
+x {
     color: red;
 }
